@@ -1,7 +1,7 @@
 # Dynamic Animations Hub
 
-![Dynamic Animations Hub](![Screenshot (5)](https://github.com/user-attachments/assets/916c0535-a0cb-4628-b2e2-a7090138e452)
-)
+(https://github.com/user-attachments/assets/916c0535-a0cb-4628-b2e2-a7090138e452)
+
 
 ## Live Demo
 [Dynamic Animations Hub](http://localhost:5173/Dynamic-Animations-Hub)
